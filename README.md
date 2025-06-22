@@ -18,7 +18,7 @@ B-LOG adalah sebuah aplikasi web untuk mengelola inventaris buku secara efektif 
 | Melissa Novianti Nugroho 
 | Ghaisan Wildan Bathsya
 | Imam Rifai   
-
+|
 ---
 
 ## Teknologi yang Digunakan
